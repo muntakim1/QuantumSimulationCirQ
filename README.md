@@ -28,8 +28,7 @@ This circuit are build using Quantum Logic gates. Some Gates are:
 
 
 For more information:
+1. [Quantum Computation and Quantum Information.pdf](https://github.com/muntakim1/QuantumSimulationCirQ/blob/master/Quantum%20Computation%20and%20Quantum%20Information.pdf)
 
-<li> [Quantum Computation and Quantum Information.pdf] (https://github.com/muntakim1/QuantumSimulationCirQ/blob/master/Quantum%20Computation%20and%20Quantum%20Information.pdf)</li>
-
-<li> [Docs of Cirq](https://cirq.readthedocs.io/en/stable/)
+2. [Docs of Cirq](https://cirq.readthedocs.io/en/stable/)
 
